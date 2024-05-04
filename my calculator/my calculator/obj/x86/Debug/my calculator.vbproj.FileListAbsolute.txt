@@ -1,0 +1,9 @@
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\bin\Debug\my calculator.exe
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\bin\Debug\my calculator.pdb
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\bin\Debug\my calculator.xml
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\my calculator.vbproj.GenerateResource.Cache
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\my calculator.exe
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\my calculator.xml
+E:\Users\User\Documents\Visual Studio 2010\Projects\my calculator\my calculator\obj\x86\Debug\my calculator.pdb
